@@ -1,0 +1,189 @@
+/* Ensure the font is applied */
+body {
+  font-family: 'Crimson Text', serif !important;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  color: #222;
+}
+
+/* Centering content with a max-width for both navbar and main content */
+.container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* Navigation Bar */
+
+nav {
+  background-color: #fff;
+  padding: 0;
+  text-align: right;
+  position: sticky;
+  z-index: 100;
+  box-shadow: none;
+  margin-bottom: 2rem;
+  font-size: 17px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #222;
+  text-decoration: none;
+  font-size: 1.3em;
+  padding: 5px 10px;
+  transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+  background-color: #f4f4f4;
+  border-radius: 5px;
+}
+
+/* main text */
+.main-content {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 0;
+  margin-top: calc(5vh + 16px);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Crimson Text', serif !important;
+  font-weight: 700;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2.2em;
+  border-bottom: none;
+}
+
+h2 {
+  font-size: 1.8em;
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.3em;
+}
+
+a {
+  color: #0000cd;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.footer-icons {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-icon-svg svg,
+.footer-icon {
+  width: 30px;
+  height: 30px;
+  margin: 0 10px;
+  vertical-align: middle;
+  transition: transform 0.3s ease;
+  display: inline-block;
+}
+
+.footer-icon-svg:hover svg,
+.footer-icon:hover {
+  transform: scale(1.2);
+}
+
+.footer-text-icon {
+  font-family: 'Noto Sans', sans-serif;
+  margin: 0 10px;
+  color: #555;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.footer-text p {
+  color: #666;
+  font-size: 15px;
+  margin: 0;
+}
+
+/* VitePress defaults override */
+:root {
+  --vp-c-brand-1: #0000cd;
+  --vp-c-brand-2: #0000cd;
+  --vp-font-family-base: 'Crimson Text', serif;
+  --vp-font-family-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3 {
+  font-family: 'Crimson Text', serif !important;
+}
+
+.vp-doc p,
+.vp-doc li {
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+/* Flat layout for pubs */
+.pub {
+  display: flex;
+  margin-bottom: 25px;
+  line-height: 1.5;
+}
+
+.pub-label {
+  flex: 0 0 70px;
+  font-weight: bold;
+}
+
+.pub-content {
+  flex: 1;
+}
+
+.pub-content strong {
+  font-weight: bold;
+  color: #000;
+}
+
+ol {
+  list-style-type: decimal;
+  margin-left: 2em;
+}
+
+ol li {
+  display: list-item;
+}
