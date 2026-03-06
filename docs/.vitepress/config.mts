@@ -5,8 +5,8 @@ import { ThemeConfig } from './theme/types'
 
 export default defineConfigWithTheme<ThemeConfig>({
     head: [
-        ['link', { rel: 'icon', href: '/favicon.ico' }],
-        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&family=Montserrat:wght@400;700&family=Noto+Sans&display=swap' }]
+        ['link', { rel: 'icon', href: '/icon/m87.jpg' }],
+        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&family=Montserrat:wght@400;700&family=Noto+Sans&family=Noto+Serif+TC:wght@400;700&display=swap' }]
     ],
     title: "Bo-Yu Yang",
     description: "Site description or title description",

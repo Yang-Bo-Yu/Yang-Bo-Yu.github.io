@@ -1,6 +1,6 @@
 /* Ensure the font is applied */
 body {
-  font-family: 'Crimson Text', serif !important;
+  font-family: 'Crimson Text', 'Noto Serif TC', serif !important;
   font-size: 20px;
   margin: 0;
   padding: 0;
@@ -70,7 +70,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Crimson Text', serif !important;
+  font-family: 'Crimson Text', 'Noto Serif TC', serif !important;
   font-weight: 700;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
@@ -142,14 +142,14 @@ footer {
 :root {
   --vp-c-brand-1: #0000cd;
   --vp-c-brand-2: #0000cd;
-  --vp-font-family-base: 'Crimson Text', serif;
+  --vp-font-family-base: 'Crimson Text', 'Noto Serif TC', serif;
   --vp-font-family-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
 }
 
 .vp-doc h1,
 .vp-doc h2,
 .vp-doc h3 {
-  font-family: 'Crimson Text', serif !important;
+  font-family: 'Crimson Text', 'Noto Serif TC', serif !important;
 }
 
 .vp-doc p,

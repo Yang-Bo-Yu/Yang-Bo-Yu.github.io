@@ -9,7 +9,7 @@ hero:
 
 I am Bo-Yu Yang, a first-year Ph.D. student at the [Information Processing Group (IPG)](https://ipg.epfl.ch/), part of the [School of Computer and Communication Sciences (IC)](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/), EPFL.
 Currently, I am very fortunate to be advised by [Prof. Michael Gastpar](https://ic-people.epfl.ch/~gastpar/).
-My research interest includes Information Theory, Learning, Privacy, Quantum Information Theory, and Finance.
+My research interest includes Information Theory, Learning Theory, Privacy, Quantum Information Theory, and Finance.
 
 <br>
 
