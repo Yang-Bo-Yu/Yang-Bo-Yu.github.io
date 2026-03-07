@@ -16,7 +16,7 @@
 
 - 25.11.2023. [Enquête sur la Divine: Seong-Jin Cho Recital in Taipei](../blog/concert/2023/25112023.md).
 
-- 15.12.2019. [聽王心心《江畔．相逢》](../blog/concert/2019/15122019.md).
+- 15.12.2019. [聽王心心《江畔．相逢》](../blog/concert/2019/15122019.md)
 
 <br>
 
