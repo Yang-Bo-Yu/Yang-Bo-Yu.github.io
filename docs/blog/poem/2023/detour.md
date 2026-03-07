@@ -1,23 +1,28 @@
 ## Detour 
 
-
 於是我再次走上這條傾斜的路徑  
 追逐黃昏，追逐昨日的亡魂  
+<br>
 生活是一條被流放的馬可夫鏈  
 我看見自身複寫睡前  
 再次成功抹消前日的痕跡  
+<br>
 予時光以文明，再讓文明  
 成為反復遺忘的賦格  
+<br>
 你會在山丘上垂直地歌唱，像日晷  
 為我記錄運行的軌跡嗎？  
+<br>
 如果我們在彼岸相逢，你會  
 和我一同校對墓碑上的詩句嗎？  
+<br>
 我將遺忘山丘下寬廣的麥田  
 遺忘寧靜，遺忘無伴奏的雲層  
 如何抵住光錐的沉落  
+<br>
 於是有風靜靜流過山巔  
 氣流在黃昏旋轉，匯聚  
-形成通往虛空遙遠的苦路
+形成通往虛空遙遠的苦路  
 
 <br>
 
@@ -44,8 +49,8 @@ the verses carved upon the gravestone?
 <br>
 I will forget the wide wheat fields below the hill,  
 forget the stillness,  
-forget the a cappella clouds,  
-forget how to withstand the sinking of the light cone.  
+forget how a cappella clouds 
+withstand the sinking of the light cone.  
 <br>
 And so the wind moves quietly across the summit.  
 Air currents turn at dusk, gathering,  
