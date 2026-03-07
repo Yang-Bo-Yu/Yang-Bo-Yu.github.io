@@ -240,3 +240,12 @@ ul li {
   padding-bottom: 0;
   line-height: 1.7;
 }
+
+/* Blockquote / citation style */
+.vp-doc blockquote {
+  border-left: 3px solid #bbb;
+  margin: 1.2em 0;
+  padding: 0.1em 1.2em;
+  color: #555;
+  font-style: italic;
+}

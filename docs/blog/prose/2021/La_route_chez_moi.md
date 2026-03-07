@@ -29,10 +29,10 @@
 <div style="display: flex; gap: 1rem;">
   <figure style="flex: 1; margin: 0; text-align: center;">
     <img src="./20190730_174443.jpg" alt="Concert photo 1" style="width: 100%;" />
-    <!--<figcaption>Caption for photo</figcaption>-->
+    <!--<figcaption style="margin-top: 0.5rem;">Caption for photo</figcaption>-->
   </figure>
   <figure style="flex: 1; margin: 0; text-align: center;">
     <img src="./20190605_065356.jpg" alt="Concert photo 2" style="width: 100%;" />
-    <!--<figcaption>Caption for photo</figcaption>-->
+    <!--<figcaption style="margin-top: 0.5rem;">Caption for photo</figcaption>-->
   </figure>
 </div>

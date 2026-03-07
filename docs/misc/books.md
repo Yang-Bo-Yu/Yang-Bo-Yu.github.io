@@ -2,27 +2,27 @@
 
 ---
 
-<br>
-
 <!-- A list of books I have read for leisure (*: currently reading, **bold**: favourites).
 
 ---
 -->
 
-**Currently reading**
-1. A PhD is not enough!: A Guide to Survival in Science. Peter J. Feibelman. 2011.
-2. 造次. 沐羽. 2025.
-3. 童話故事. 童偉格. 2019.
-4. 如何抵達人心，如何為愛畫刻度：駱以軍的文學啟蒙小說26講. 駱以軍. 2024
+### Currently reading
+1. A PhD is not enough! A Guide to Survival in Science. Peter J. Feibelman. 2011.  
+2. 造次. 沐羽. 2025.  
+3. 童話故事. 童偉格. 2019.  
+4. 如何抵達人心，如何為愛畫刻度：駱以軍的文學啟蒙小說26講. 駱以軍. 2024.  
 
-**2026**
+---
+
+### 2026
 
 1. 與我平行的時間. 張惠菁. 2025.
 2. Siddhartha. Hermann Hesse. 1922.
 
 <br>
 
-**2025**
+### 2025
 
 1. 三體. 劉慈欣. 2008.
 2. 雪國. 川端康成. 1948.
@@ -33,11 +33,18 @@
 
 <br>
 
-**2024 and before**
+### 2024 and before
 1. The Tibetan Book of Living and Dying. Sogyal Rinpoche. 1992.
 2. 六祖壇經. 唐．惠能. 713.
 3. 金庸武俠小說全集. 金庸. 1955-1972.
-
+<!--
 ---
 
 # Albums
+
+### Classical
+
+### Jazz
+
+### J-pop
+-->
