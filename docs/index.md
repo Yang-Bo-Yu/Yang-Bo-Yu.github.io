@@ -17,4 +17,4 @@ Previously, I received my B.S. degree in Electrical Engineering from [National T
 
 <br>
 
-Here are the [publications](/publications/index.md) that have resulted from my research, alongside a collection of my [academic projects](/projects/index.md). Here is my [academic CV](/CV_Bo_Yu_Yang.pdf), and here is [everything else](/misc.md). During my leisure time, I love playing the piano, working out, photography, literature, and philosophy.
+Here are the [publications](/publications/pub.md) that have resulted from my research, alongside a collection of my [academic projects](/projects/proj.md). Here is my [academic CV](/CV_Bo_Yu_Yang.pdf), and here is [everything else](/misc/misc.md). During my leisure time, I love playing the piano, working out, photography, literature, and philosophy.

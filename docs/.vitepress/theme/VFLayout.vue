@@ -4,8 +4,8 @@
       <ul>
         <li><a :href="withBase('/')">Home</a></li>
         <li v-for="item in nav" :key="item.link">
-          <a :href="withBase(formatLink(item.link))">{{ item.text }}</a>
-        </li>
+            <a :href="withBase(formatLink(item.link))" :target="(item as any).target || '_self'" :rel="(item as any).target === '_blank' ? 'noopener noreferrer' : undefined">{{ item.text }}</a>
+          </li>
       </ul>
     </nav>
 

@@ -99,7 +99,7 @@ Lists are sorted chronologically.
 
 
 
-<!--
+
 <h3 class="push-down-2"><span>Careers</span></h3>
 <ul>
     <li></li>
@@ -110,7 +110,7 @@ Lists are sorted chronologically.
     <li></li>
 </ul>
 
-
+<!--
 <h3 class="push-down-2"><span>Blogs</span></h3>
 
 <p>A mix of blogs in information theory, machine learning, (theoretical) computer science, and mathematics.</p>

@@ -17,10 +17,11 @@ export default defineConfigWithTheme<ThemeConfig>({
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            { text: 'Publications', link: '/publications/index.md' },
-            { text: 'Projects', link: '/projects/index.md' },
-            { text: 'Resources', link: '/resources.md' },
-            { text: 'Blog', link: '/misc.md' },
+            { text: 'CV', link: '/CV_Bo_Yu_Yang.pdf', target: '_blank' },
+            { text: 'Publications', link: '/publications/pub.md' },
+            { text: 'Projects', link: '/projects/proj.md' },
+            { text: 'Resources', link: '/misc/resources.md' },
+            { text: 'Blog', link: '/misc/misc.md' },
         ],
         socialLinks: [
             { icon: 'github', link: 'https://github.com/Yang-Bo-Yu/Yang-Bo-Yu.github.io' }
