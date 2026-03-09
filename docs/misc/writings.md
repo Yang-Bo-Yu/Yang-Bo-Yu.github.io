@@ -31,10 +31,10 @@
 - [午後](../blog/poem/2022/午後.md)
 
 ### 2021
-- [黑日](../blog/poem/2021/黑日.md)
+- [黑日 Black Sun](../blog/poem/2021/黑日.md)
 
 ### 2019
-- [流星/Meteor](../blog/poem/2019/流星.md) (第三十屆建中紅樓文學獎新詩組二獎作品; Second Prize, Modern Poetry Category, 30th Chien Kuo High School Red Chamber Literary Award)
+- [流星 / Meteor](../blog/poem/2019/流星.md) (第三十屆建中紅樓文學獎新詩組二獎作品; Second Prize, Modern Poetry Category, 30th Chien Kuo High School Red Chamber Literary Award)
 
 <br>
 
@@ -43,14 +43,14 @@
 ## Prose
 
 ### 2022
-- [引擎/Engine](../blog/prose/2022/引擎.md)
+- [引擎 / Engine](../blog/prose/2022/引擎.md)
 
 ### 2021
 - [微微有雨](../blog/prose/2021/微微有雨.md)
 - [書寫的原點—懷念吳岱穎老師](../blog/prose/2021/書寫的原點.md)
 - [La route chez moi](../blog/prose/2021/La_route_chez_moi.md)
 ### 2019
-- [黑洞/Blackhole](../blog/prose/2019/黑洞.md) (第三十屆建中紅樓文學獎散文組二獎作品; Second Prize, Prose Category, 30th Chien Kuo High School Red Chamber Literary Award)
+- [黑洞 / Blackhole](../blog/prose/2019/黑洞.md) (第三十屆建中紅樓文學獎散文組二獎作品; Second Prize, Prose Category, 30th Chien Kuo High School Red Chamber Literary Award)
 
 <br>
 
