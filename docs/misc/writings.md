@@ -4,6 +4,14 @@
 
 <br>
 
+## Random Thoughts on Technology
+
+- 23.03.2026. [Takeaways from the podcast: Terence Tao – How the world’s top mathematician uses AI](../blog/tech/2026/23032026.md).
+
+<br>
+
+---
+
 ## Concert Reviews
 
 - 11.01.2026. [Cateen’s Tanzfestival in Basel](../blog/concert/2026/11012026.md).
