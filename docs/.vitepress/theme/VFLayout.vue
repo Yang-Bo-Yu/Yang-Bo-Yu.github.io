@@ -33,7 +33,7 @@
         </a>
       </div>
       <div class="footer-text">
-        <p>2026, {{ profile?.title }}. Powered by VitePress.</p>
+        <p>Last updated: 24 March 2026. {{ profile?.title }}. Powered by VitePress.</p>
       </div>
     </footer>
   </div>
