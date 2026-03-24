@@ -32,6 +32,9 @@
 
 ## Poetry
 
+### 2026
+- [Async](../blog/poem/2026/async.md)
+
 ### 2023
 - [Detour](../blog/poem/2023/detour.md)
 
