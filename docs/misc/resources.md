@@ -109,7 +109,7 @@ Lists are sorted chronologically.
     <li><a href="https://github.com/shaily99/advice">A repository of links with advice related to grad school</a></li>
     <li><a href="https://karpathy.github.io/2016/09/07/phd/">A Survival Guide to a PhD</a></li>
     <li><a href="https://anandbhattad.github.io/blogs/jr_grads.html">So You Want to Be an Academic?</a></li>
-    <li><a href="https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/">Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations</a></li>
+    <li><a href="https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/">Questions to Ask a Prospective Ph.D. Advisor on Visit Day, with thorough and forthright explanations</a></li>
     
 </ul>
 
@@ -129,7 +129,6 @@ Lists are sorted chronologically.
 <h4 class="sub-section"><span>On Reviewing</span></h4>
 <ul>
     <li><a href="https://violentmetaphors.com/2013/12/13/how-to-become-good-at-peer-review-a-guide-for-young-scientists/">How to become good at peer review: A guide for young scientists</a></li>
-    <li><a href="https://www.cs.colostate.edu/~cs656/alan-meier.pdf">Alan Meier: How to Review a Technical Paper</a></li>
     <li><a href="https://www.cs.utexas.edu/~dahlin/professional/parbery-referee.pdf">A Guide for New Referees in Theoretical Computer Science</a></li>
 </ul>
 

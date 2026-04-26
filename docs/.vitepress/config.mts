@@ -21,6 +21,7 @@ export default defineConfigWithTheme<ThemeConfig>({
             { text: 'Publications', link: '/publications/pub.md' },
             { text: 'Projects', link: '/projects/proj.md' },
             { text: 'Resources', link: '/misc/resources.md' },
+            { text: 'Writings', link: '/misc/writings.md' },
             { text: 'Blog', link: '/misc/misc.md' },
         ],
         socialLinks: [

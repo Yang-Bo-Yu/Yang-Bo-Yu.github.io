@@ -13,6 +13,7 @@
 ---
 
 ## Concert Reviews
+- 25.04.2026. [Before the Waltz Falters: Martha Argerich & Dong Hyek Lim in Lausanne](../blog/concert/2026/25042026.md).
 
 - 11.01.2026. [Cateen’s Tanzfestival in Basel](../blog/concert/2026/11012026.md).
 
