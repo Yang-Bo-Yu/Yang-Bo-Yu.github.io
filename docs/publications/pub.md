@@ -2,7 +2,22 @@
 
 <br>
 
-## Conference proceedings
+### Recent Research Results
+
+<br>
+
+<div class="pub">
+  <span class="pub-label">[R1]</span>
+  <div class="pub-content">
+    <strong>Single-Period Portfolio Selection via Information Projection</strong>
+    [<a href="https://arxiv.org/abs/2605.03184" target="_blank">arXiv</a>]<br />
+    Bo-Yu Yang and Michael Gastpar
+  </div>
+</div>
+
+<br><br>
+
+### Conference proceedings
 
 <br>
 
