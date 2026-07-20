@@ -1,7 +1,25 @@
 import { defineConfigWithTheme } from 'vitepress'
+import { execFileSync } from 'node:child_process'
 import { ThemeConfig } from './theme/types'
 
 // https://vitepress.dev/reference/site-config
+
+const lastUpdated = (() => {
+    try {
+        const commitDate = execFileSync('git', ['log', '-1', '--format=%cs'], {
+            encoding: 'utf8'
+        }).trim()
+
+        return commitDate.split('-').reverse().join('.')
+    } catch {
+        // Keep local/non-Git builds working if repository metadata is unavailable.
+        return new Intl.DateTimeFormat('en-GB', {
+            day: '2-digit',
+            month: '2-digit',
+            year: 'numeric'
+        }).format(new Date()).replaceAll('/', '.')
+    }
+})()
 
 export default defineConfigWithTheme<ThemeConfig>({
     head: [
@@ -15,6 +33,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     },
     lastUpdated: true,
     themeConfig: {
+        lastUpdated,
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: 'CV', link: '/CV_Bo_Yu_Yang.pdf', target: '_blank' },

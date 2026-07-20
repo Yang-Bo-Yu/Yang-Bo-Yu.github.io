@@ -12,6 +12,7 @@ export interface Profile {
 }
 
 export interface ThemeConfig extends DefaultTheme.Config {
+    lastUpdated: string
     profile: Profile
     sidebar: [{ text: '' }]
 }

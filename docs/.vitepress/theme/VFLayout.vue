@@ -33,7 +33,7 @@
         </a>
       </div>
       <div class="footer-text">
-        <p>Last updated: 26.04.2026.</p>
+        <p>Last updated: {{ lastUpdated }}.</p>
         <p>2026, {{ profile?.title }}. Powered by VitePress.</p>
       </div>
     </footer>
@@ -48,6 +48,7 @@ const { site, frontmatter } = useData()
 
 const nav = site.value.themeConfig.nav || []
 const profile = site.value.themeConfig.profile as Profile | undefined
+const lastUpdated = site.value.themeConfig.lastUpdated
 
 // Strip .md extensions for VitePress routing
 const formatLink = (link: string) => link.replace(/\.md$/, '.html')
