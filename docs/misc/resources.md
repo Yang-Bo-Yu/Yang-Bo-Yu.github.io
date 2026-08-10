@@ -54,6 +54,7 @@ Lists are sorted chronologically.
     <li><a href="https://www.cambridge.org/core/books/information-theory/A441D8792B877693D6F91E8D61B53F42">Information Theory: Coding Theorems for Discrete Memoryless Systems</a>. Imre Csiszár and János Körner. 2011.</li>
     <li><a href="https://www.cambridge.org/core/books/network-information-theory/3ABE1D86EB0F0DF6A8764E415C2CA94A">Network Information Theory</a>. Abbas El Gamal and Young-Han Kim. 2012.</li>
     <li><a href="https://www.amazon.com/Information-Theory-Learning-Yury-Polyanskiy/dp/1108832903">Information Theory: From Coding to Learning</a>. Yury Polyanskiy and Yihong Wu. 2025.</li>
+    <li><a href="https://web.stanford.edu/class/ee377/lecture-notes.pdf">Statistics and Information Theory</a>. John Duchi. 2026.</li>
     
 </ul>
 
@@ -70,13 +71,14 @@ Lists are sorted chronologically.
     <li><a href="https://hastie.su.domains/ElemStatLearn/">The Elements of Statistical Learning: Data Mining, Inference, and Prediction</a>. Trevor Hastie, Robert Tibshirani, and Jerome Friedman. 2009.</li>
     <li><a href="https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6">Understanding Machine Learning: From Theory to Algorithms</a>. Shai Shalev-Shwartz and Shai Ben-David. 2014.</li>
     <li><a href="https://mitpress.mit.edu/9780262049443/learning-theory-from-first-principles/">Learning Theory from First Principles</a>. Francis Bach. 2024.</li>
+    <li><a href="https://arxiv.org/abs/2607.11938">Mathematics of Data Science</a>. Afonso S. Bandeira, Amit Singer, and Thomas Strohmer. 2026.</li>
 </ul>
 
 <h4 class="sub-section"><span>Sequential Decision Making</span></h4>
 <ul>
     <li><a href="https://www.cambridge.org/core/books/prediction-learning-and-games/A05C9F6ABC752FAB8954C885D0065C8F">Prediction, Learning, and Games</a>. Nicolo Cesa-Bianchi and Gabor Lugosi. 2009.</li>
     <li><a href="https://tor-lattimore.com/downloads/book/book.pdf">Bandit Algorithms</a>. Tor Lattimore and Csaba Szepesvari. 2020.</li>
-    <li><a href="https://arxiv.org/abs/1912.13213">A Modern Introduction to Online Learning</a>. Francesco Orabona. 2025.</li>
+    <li><a href="https://arxiv.org/abs/1912.13213">A Modern Introduction to Online Learning</a>. Francesco Orabona. 2026.</li>
 </ul>
 
 <h4 class="sub-section"><span>Optimization</span></h4>
