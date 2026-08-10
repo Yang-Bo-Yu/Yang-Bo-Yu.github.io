@@ -2,7 +2,7 @@
   <div class="container">
     <nav>
       <ul>
-        <li><a :href="withBase('/')">Home</a></li>
+        <li class="nav-home"><a :href="withBase('/')">Bo-Yu Yang</a></li>
         <li v-for="item in nav" :key="item.link">
             <a :href="withBase(formatLink(item.link))" :target="(item as any).target || '_self'" :rel="(item as any).target === '_blank' ? 'noopener noreferrer' : undefined">{{ item.text }}</a>
           </li>
@@ -11,10 +11,12 @@
 
     <div class="main-content">
       <div v-if="frontmatter.layout === 'home'">
-        <h1 id="title">{{ frontmatter.hero?.name || profile?.title }}</h1>
-        <p>{{ frontmatter.hero?.tagline || profile?.bio }}</p>
-        <hr />
-        <br />
+        <header class="home-hero">
+          <h1 id="title">
+            {{ frontmatter.hero?.name || profile?.title }}
+            <span v-if="frontmatter.hero?.nameZh" lang="zh-TW">{{ frontmatter.hero.nameZh }}</span>
+          </h1>
+        </header>
         
         <Content />
       </div>
@@ -24,7 +26,6 @@
     </div>
 
     <div style="margin-top: 3rem;"></div>
-    <hr>
     <footer>
       <div class="footer-icons">
         <a v-for="link in profile?.links || []" :key="link.link" :href="link.link">

@@ -24,7 +24,9 @@ const lastUpdated = (() => {
 export default defineConfigWithTheme<ThemeConfig>({
     head: [
         ['link', { rel: 'icon', href: '/icon/m87.jpg' }],
-        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&family=Montserrat:wght@400;700&family=Noto+Sans&family=Noto+Serif+TC:wght@400;700&display=swap' }]
+        ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
+        ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
+        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&family=Libre+Baskerville:wght@400;700&display=swap' }]
     ],
     title: "Bo-Yu Yang",
     description: "Site description or title description",
@@ -37,11 +39,10 @@ export default defineConfigWithTheme<ThemeConfig>({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: 'CV', link: '/CV_Bo_Yu_Yang.pdf', target: '_blank' },
-            { text: 'Publications', link: '/publications/pub.md' },
+            { text: 'Research', link: '/publications/pub.md' },
             { text: 'Projects', link: '/projects/proj.md' },
             { text: 'Resources', link: '/misc/resources.md' },
-            { text: 'Writings', link: '/misc/writings.md' },
-            { text: 'Blog', link: '/misc/misc.md' },
+            { text: 'Writing', link: '/misc/writings.md' },
         ],
         socialLinks: [
             { icon: 'github', link: 'https://github.com/Yang-Bo-Yu/Yang-Bo-Yu.github.io' }
