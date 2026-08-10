@@ -78,7 +78,7 @@ Lists are sorted chronologically.
 <ul>
     <li><a href="https://www.cambridge.org/core/books/prediction-learning-and-games/A05C9F6ABC752FAB8954C885D0065C8F">Prediction, Learning, and Games</a>. Nicolo Cesa-Bianchi and Gabor Lugosi. 2009.</li>
     <li><a href="https://tor-lattimore.com/downloads/book/book.pdf">Bandit Algorithms</a>. Tor Lattimore and Csaba Szepesvari. 2020.</li>
-    <li><a href="https://arxiv.org/abs/1912.13213">A Modern Introduction to Online Learning</a>. Francesco Orabona. 2026.</li>
+    <li><a href="https://arxiv.org/abs/1912.13213">Online Learning: A Modern Introduction Using Convex Optimization</a>. Francesco Orabona. 2026.</li>
 </ul>
 
 <h4 class="sub-section"><span>Optimization</span></h4>
