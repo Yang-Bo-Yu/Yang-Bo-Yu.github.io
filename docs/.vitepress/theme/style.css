@@ -261,7 +261,8 @@ ul li {
   --accent-hover: #493225;
   --latin-display: 'Libre Baskerville', Georgia, serif;
   --latin-text: 'EB Garamond', Georgia, serif;
-  --han-serif: 'PMingLiU', 'I.Ming', 'Songti TC', serif;
+  --han-display: 'Chiron Sung HK', 'I.Ming', 'PMingLiU', serif;
+  --han-serif: 'Chiron Sung HK', 'I.Ming', 'PMingLiU', serif;
   --ui-font: 'Inter', system-ui, sans-serif;
   --vp-c-brand-1: var(--accent);
   --vp-c-brand-2: var(--accent-hover);
@@ -425,7 +426,7 @@ a:focus-visible {
   display: inline-block;
   margin-left: 0.35em;
   color: var(--muted);
-  font-family: var(--han-serif) !important;
+  font-family: var(--han-display) !important;
   font-size: 0.48em;
   font-weight: 400;
   letter-spacing: 0.08em;

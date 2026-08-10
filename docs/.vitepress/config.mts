@@ -26,7 +26,7 @@ export default defineConfigWithTheme<ThemeConfig>({
         ['link', { rel: 'icon', href: '/icon/m87.jpg' }],
         ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
         ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&family=Libre+Baskerville:wght@400;700&display=swap' }]
+        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Chiron+Sung+HK:wght@400&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&family=Libre+Baskerville:wght@400;700&display=swap' }]
     ],
     title: "Bo-Yu Yang",
     description: "Site description or title description",
