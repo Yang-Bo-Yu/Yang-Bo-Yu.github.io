@@ -21,7 +21,13 @@
         <Content />
       </div>
       <div v-else>
-         <Content />
+         <div :class="{ 'article-page': frontmatter.date }">
+           <header v-if="frontmatter.date" class="article-header">
+             <h1>{{ frontmatter.title }}</h1>
+             <p class="article-date">{{ frontmatter.date }}</p>
+           </header>
+           <Content />
+         </div>
       </div>
     </div>
 

@@ -1,4 +1,7 @@
-## Async
+---
+date: "2026"
+title: "Async"
+---
 
 ### andata
 毀壞已經無法阻止  

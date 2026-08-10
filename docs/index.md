@@ -7,7 +7,7 @@ hero:
 
 ## About
 
-I am a Ph.D. student at the [Information Processing Group (IPG)](https://ipg.epfl.ch/) in EPFL's [School of Computer and Communication Sciences](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/), very fortunated to be advised by [Prof. Michael Gastpar](https://ic-people.epfl.ch/~gastpar/).
+I am a Ph.D. student at the [Information Processing Group (IPG)](https://ipg.epfl.ch/) in EPFL's [School of Computer and Communication Sciences](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/), advised by [Prof. Michael Gastpar](https://ic-people.epfl.ch/~gastpar/).
 
 Before joining EPFL, I received my B.S. in Electrical Engineering from [National Taiwan University](https://www.ntu.edu.tw/english/) in 2025, where I was advised by [Prof. Hao-Chung Cheng](http://www.hao-chung.info/).
 

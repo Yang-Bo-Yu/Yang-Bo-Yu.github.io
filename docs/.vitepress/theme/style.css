@@ -416,7 +416,7 @@ a:focus-visible {
   margin: 0;
   border: 0;
   font-family: var(--latin-display) !important;
-  font-size: clamp(2.7rem, 6vw, 4.25rem);
+  font-size: clamp(2.25rem, 4.5vw, 3.25rem);
   font-weight: 400;
   line-height: 1.1;
   letter-spacing: -0.035em;
@@ -584,7 +584,7 @@ footer {
   }
 
   #title {
-    font-size: clamp(2.45rem, 12vw, 3.6rem);
+    font-size: clamp(2.15rem, 10vw, 2.9rem);
     line-height: 1.08;
   }
 
@@ -597,6 +597,78 @@ footer {
   .home-actions {
     margin-bottom: 4rem;
   }
+}
+
+.article-date {
+  margin: 0.7rem 0 0;
+  color: var(--muted);
+  font-family: var(--ui-font) !important;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.article-page {
+  max-width: 700px;
+  margin-inline: auto;
+}
+
+.article-header {
+  margin-bottom: 3.25rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.article-header h1 {
+  margin: 0;
+  font-family: var(--latin-display), var(--han-serif) !important;
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: -0.035em;
+}
+
+.article-page > div > p,
+.article-page .vp-doc p {
+  line-height: 1.85;
+}
+
+.article-page h2 {
+  margin-top: 2.75em;
+  border-bottom: 0;
+  font-size: 1.7rem;
+}
+
+.article-page h3 {
+  margin-top: 2.2em;
+  font-size: 1.25rem;
+}
+
+.article-page figure {
+  margin-block: 2.5rem !important;
+}
+
+.article-page figure img,
+.article-page .vp-doc img {
+  display: block;
+  border-radius: 3px;
+}
+
+.article-page figcaption {
+  margin-top: 0.7rem !important;
+  color: var(--muted);
+  font-family: var(--ui-font);
+  font-size: 11px;
+  line-height: 1.55;
+  letter-spacing: 0.025em;
+}
+
+.article-page blockquote {
+  margin-block: 2rem;
+  padding: 0.25rem 0 0.25rem 1.35rem;
+  border-left-color: var(--accent);
+  color: var(--muted);
 }
 
 @media (max-width: 480px) {
